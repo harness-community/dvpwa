@@ -2,18 +2,12 @@
 DVPWA -- Damn Vulnerable Python Web Application
 ===============================================
 
-.. image:: https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg
-   :alt: StandWithUkraine
-   :align: center
-   :target: https://stand-with-ukraine.pp.ua
-
 Description
 ===========
 
 DVPWA was inspired by famous `dvwa`_ project and `bobby-tables xkcd comics`_.
-The purpose of this project is to implement real-world like application in
-Python with as many vulnerabilities as possible while having a good design and
-intentions.
+The purpose of this project is to implement a real-world like application in
+Python with as many vulnerabilities as possible while having a good design.
 
 This project was used as demonstration of vulnerabilities during my
 `Web vulnerabilities`_ presentation at EVO Summer Python Lab'17.
